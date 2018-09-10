@@ -1,2 +1,2 @@
 # PowershellPJ
-日常によく使うPowershellコマンド
+日常良く使うPowershellコマンド
